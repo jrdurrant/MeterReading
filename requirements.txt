@@ -1,0 +1,5 @@
+jupyterlab==3.4.3  # if using notebooks
+matplotlib==3.5.2  # for visualization
+torch==1.11.0
+torchvision==0.12.0
+tqdm==4.64.0
